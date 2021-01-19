@@ -1,4 +1,3 @@
-# Security System Music Player
 Prepared by:
 
 + Son Nguyen - snguye49 - snguye49@uic.edu
